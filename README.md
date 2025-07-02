@@ -109,6 +109,7 @@ This upgraded version integrates an **HC-SR04 ultrasonic sensor** to detect and 
 - Full directional control (forward, reverse, left, right)
 - Smooth operation via Bluetooth from smartphone
 - Ideal for beginner learning and hobby robotics
+![RC Car Working](https://github.com/Krnkreddy/Autonomous-RC-Car/blob/main/Result/rc%20car.mp4)
 
 ### ✅ Autonomous Version:
 - Detects objects within 10–15 cm
