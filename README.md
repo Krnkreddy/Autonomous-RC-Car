@@ -26,21 +26,6 @@ The project integrates Arduino hardware with motor drivers and sensors to demons
 
 ---
 
-## 🧠 Keywords
-
-- Bluetooth  
-- Remote Control  
-- Wireless Communication  
-- Arduino  
-- Obstacle Avoidance  
-- Automation  
-- Embedded Systems  
-- Robotics  
-- STEM Education  
-- Mobility
-
----
-
 ## 🧾 Table of Contents
 
 - [1. Basic Bluetooth RC Car](#1-basic-bluetooth-rc-car)
@@ -156,7 +141,7 @@ We would like to express our sincere gratitude to the faculty of **KL Deemed to 
 
 **Contributors:**
 - **M. Satish** – 2200049079  
-- **K. Ranga Nitheesh** – 2200049143  
+- **K. Ranga Nitheesh Kumar Reddy** – 2200049143  
 
 ---
 
