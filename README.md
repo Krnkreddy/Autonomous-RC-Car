@@ -95,12 +95,12 @@ This upgraded version integrates an **HC-SR04 ultrasonic sensor** to detect and 
 ## 🖥️ Circuit Diagrams
 
 - **Basic RC Car Circuit**  
-  ![Bluetooth RC Car Circuit](images/bluetooth_rc_circuit.png)
+  ![Bluetooth RC Car Circuit](https://github.com/Krnkreddy/Autonomous-RC-Car/blob/main/Images/Obstacle%20Avoiding%20Robot%20Car/20230801_131330.jpg)
 ![Screenshot (77)](https://github.com/user-attachments/assets/b46b8352-270a-49de-8fa4-f99ef990872c)
 ![Screenshot (76)](https://github.com/user-attachments/assets/f367c771-0693-41e1-832f-9bf4ab19aa45)
 
 - **Autonomous RC Car Circuit**  
-  ![Autonomous RC Circuit](images/autonomous_rc_circuit.png)
+  ![Autonomous RC Circuit](https://github.com/Krnkreddy/Autonomous-RC-Car/tree/main/Images/RC%20Car)
 ![20230801_131330](https://github.com/user-attachments/assets/b3396426-f26c-488d-8b7e-c37e2e33de62)
 
 ---
