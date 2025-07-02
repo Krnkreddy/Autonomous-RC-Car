@@ -1,4 +1,4 @@
-# 🚗 Bluetooth-Controlled RC Car Project
+# 🚗 Bluetooth-Controlled RC Car Project & Autonomous RC Car with Obstacle Avoidance
 
 **Affiliated with KL Deemed to be University, Green Fields, Vaddeswaram, Guntur District – 522302**
 
