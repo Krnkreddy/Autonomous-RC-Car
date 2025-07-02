@@ -95,8 +95,8 @@ This upgraded version integrates an **HC-SR04 ultrasonic sensor** to detect and 
 ## 🖥️ Circuit Diagrams
 
 - **Basic RC Car Circuit**  
-  ![Arduino Uno with Bluetooth Module](https://github.com/Krnkreddy/Autonomous-RC-Car/blob/main/Images/RC%20Car/Screenshot%20(76).png)
 ![Arduino Uno with Motor Driver & Power Supply](https://github.com/Krnkreddy/Autonomous-RC-Car/blob/main/Images/RC%20Car/Screenshot%20(77).png)
+![Arduino Uno with Bluetooth Module](https://github.com/Krnkreddy/Autonomous-RC-Car/blob/main/Images/RC%20Car/Screenshot%20(76).png)
 
 - **Autonomous RC Car Circuit**  
   ![Autonomous RC Circuit](https://github.com/Krnkreddy/Autonomous-RC-Car/blob/main/Images/Obstacle%20Avoiding%20Robot%20Car/20230801_131330.jpg)
