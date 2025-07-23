@@ -109,14 +109,14 @@ This upgraded version integrates an **HC-SR04 ultrasonic sensor** to detect and 
 - Full directional control (forward, reverse, left, right)
 - Smooth operation via Bluetooth from smartphone
 - Ideal for beginner learning and hobby robotics
-Basic Version Video - https://github.com/user-attachments/assets/a47fedcf-4796-4b1d-98b7-e69ba4ce002d
+- Basic Version Video - https://github.com/user-attachments/assets/a47fedcf-4796-4b1d-98b7-e69ba4ce002d
 
 ### ✅ Autonomous Version:
 - Detects objects within 10–15 cm
 - Automatically stops or steers around obstacles
 - Semi-autonomous behavior while retaining Bluetooth control
 - Great demonstration of sensor-based decision-making
-Autonomous Video - https://github.com/user-attachments/assets/70613ac9-7249-416d-b5e5-ef176da7143f
+- Autonomous Video - https://github.com/user-attachments/assets/70613ac9-7249-416d-b5e5-ef176da7143f
 
 ---
 
